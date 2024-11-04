@@ -1,5 +1,4 @@
-This library is meant to extend the [media_kit](https://pub.dev/packages/media_kit) library with widgets to enhance the TV experience.
-
+This library extends the [media_kit](https://pub.dev/packages/media_kit) library with widgets designed to enhance the TV experience.
 
 ## Contributing and Maintenance
 
